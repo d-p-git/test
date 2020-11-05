@@ -10,6 +10,6 @@ public class test {
 	}
 
 	public void stampa(){
-		
+		private int a = 2;
 	}
 }
