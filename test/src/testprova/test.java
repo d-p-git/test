@@ -8,4 +8,7 @@ public class test {
 		System.out.println("prova di pull");
 	}
 
+	public void stampa(){
+		
+	}
 }
