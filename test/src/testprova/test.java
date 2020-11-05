@@ -9,4 +9,7 @@ public class test {
 		System.out.println("test");
 	}
 
+	public void stampa(){
+		
+	}
 }
